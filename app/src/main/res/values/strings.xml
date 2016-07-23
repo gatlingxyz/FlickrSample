@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlickrSample</string>
+    <string name="flickr_photo_format">https://farm%1$s.staticflickr.com/%2$s/%3$s_%4$s_%5$s.%6$s</string>
+</resources>
